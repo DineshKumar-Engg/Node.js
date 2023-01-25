@@ -1,0 +1,15 @@
+Event emitter:-
+
+    Event Emitter have two methods
+        1. "on" => A method which has eye on an event.
+        2. "emit" => A method which trigger an event
+
+This is like javascript Event listener......
+
+its like to trigger a event to execute the function
+we can trigger multiple time "emit" to "on" function work.
+
+
+Streaming:-
+
+        visualizing data from files from buffer,encoding into readable form

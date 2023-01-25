@@ -1,0 +1,43 @@
+#####API :-
+
+REST API -- Representational state data.
+API --- Application programming interface.
+
+#####Their is four REST full API:-
+
+1. GET
+2. POST
+3. PUT
+4. DELETE
+
+#####Server :-
+
+which is serving service to everyone.
+like system which is accesible through communication...ex.windows,mas,Node
+
+
+##### http
+
+hyper text transfer protocols --- to access the server we need protocols
+
+########## SERVER live
+
+google search .. 127.0.0.1:8080 not get result ,continues loading
+
+so send the request(req)--- return there is no response
+
+then now to end the loading--- add the res.end
+
+it display console.log ---data
+
+
+#######
+
+install express.js----- npx install express --save
+
+########
+
+200----everything good
+400---- something wrong with our code
+500----- something wrong with server
+

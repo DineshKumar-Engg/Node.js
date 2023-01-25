@@ -1,0 +1,15 @@
+{
+  "name": "september-13",
+  "version": "1.0.0",
+  "description": "september 13 class files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
